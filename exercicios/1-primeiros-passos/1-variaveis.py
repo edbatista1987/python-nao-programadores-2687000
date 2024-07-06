@@ -9,3 +9,7 @@
 
 
 # Declare uma variável do tipo booleano
+
+nome = "Luiza"
+x = 23 
+morte = False
